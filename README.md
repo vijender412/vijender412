@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Vijender Singh</h1>
-<h3 align="center">A passionate Python developer and Researcher from India</h3>
+<h3 align="center">A passionate Python developer and NLP Researcher from India</h3>
 
 - 🔭 I’m currently working on **NLP use cases**
 
