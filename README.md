@@ -31,12 +31,10 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/http://vijendersingh.pb.design/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="http://vijendersingh.pb.design/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://in.linkedin.com/in/vijendersingh412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://in.linkedin.com/in/vijendersingh412" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/vijendersingh412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/vijendersingh412" height="30" width="40" /></a>
 <a href="https://medium.com/@vijendersingh412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vijendersingh412" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/vijendersingh412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/vijendersingh412" height="30" width="40" /></a>
-<a href="/http://vijendersingh.pb.design/blog-7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="http://vijendersingh.pb.design/blog-7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
