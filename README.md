@@ -17,13 +17,13 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 🤝 I’m open for help with **NLP problem solving and interesting use cases**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vijender412](https://github.com/vijender412)
+- 👨‍💻 All of my projects are available at Git Repo [here](https://github.com/vijender412)
 
 - 📝 I regulary write frequently asked questions on [NLP](http://vijendersingh.pb.design/blog-7)
 
 - 💬 Ask me about **Chatbot Frameworks(Dialogflow and Rasa) and NLP related problems**
 
-- 📫 How to reach me **https://in.linkedin.com/in/vijendersingh412**
+- 📫 You can reach me @ [Linkedin](https://in.linkedin.com/in/vijendersingh412)
 
 - 📄 Know about my experiences [http://vijendersingh.pb.design/](http://vijendersingh.pb.design/)
 
