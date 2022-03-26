@@ -21,7 +21,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 📝 I regulary write frequently asked questions on [ML/DL/NLP](http://vijendersingh.pb.design/blog-7)
 
-- 💬 Ask me about **Chatbot Frameworks(Dialogflow and Rasa) and NLP related problems**
+- 💬 Ask me about **Chatbot, Conversational AI, Cloud and NLP**
 
 - 📫 You can reach me @ [Linkedin](https://in.linkedin.com/in/vijendersingh412)
 
