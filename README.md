@@ -11,7 +11,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 🔭 I’m currently working on **NLP use cases**
 
-- 🌱 I’m currently learning **Research paper related to NLP and trying to get what more from NLP**
+- 🌱 I’m currently working on **Research paper related to Keyphrase Extraction**
 
 - 👯 I’m open to collaborate on [Foodie Khana Rasa App](https://github.com/vijender412/Foodie_rasa_2.0)
 
