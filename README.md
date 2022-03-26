@@ -19,7 +19,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 👨‍💻 All of my projects are available at Git Repo [here](https://github.com/vijender412)
 
-- 📝 I regulary write frequently asked questions on [NLP](http://vijendersingh.pb.design/blog-7)
+- 📝 I regulary write frequently asked questions on [ML/DL/NLP](http://vijendersingh.pb.design/blog-7)
 
 - 💬 Ask me about **Chatbot Frameworks(Dialogflow and Rasa) and NLP related problems**
 
