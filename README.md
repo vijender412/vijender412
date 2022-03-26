@@ -37,6 +37,14 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/vijendersingh412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/vijendersingh412" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Cloud Certifications:</h3>
+<p align="left"> 
+  <a href="#" target="_blank"> <img src="https://images.credly.com/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="AWS SAA" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://images.credly.com/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" alt="AWS Developer" width="40" height="40"/> </a> 
+  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/800/1*rxC9naVbebRyPYJ3qMaiaA.png" alt="GCP MLPE" width="40" height="40"/> </a> 
+  <a href="#" target="_blank"> <img src="https://images.credly.com/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" alt="Azure DataScientist" width="40" height="40"/> </a> 
+</p>
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
